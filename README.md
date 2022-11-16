@@ -35,8 +35,8 @@ You can click the Preview link to take a look at your changes.
 <br>
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=mostafa-yasen&show_icons=true&locale=en" alt="mostafa-yasen" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-yasen&" alt="mostafa-yasen" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mostafa-yasen&show_icons=true&locale=en" alt="mostafa-yasen" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-yasen&" alt="mostafa-yasen" />
 </p>
 
 <br>
