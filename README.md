@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 <h2>Github Profile Stats</h2>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-yasen&show_icons=true&locale=en&layout=compact&count_private=true" alt="mostafa-yasen" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-yasen&show_icons=true&locale=en&layout=compact&count_private=true" alt="mostafa-yasen" /></p>
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-yasen&show_icons=true&locale=en" alt="mostafa-yasen" />
@@ -41,11 +41,9 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <br>
-<br>
 <h2>GitHub Profile Trophies</h2>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"
-><img src="https://github-profile-trophy.vercel.app/?username=mostafa-yasen&row=2&column=3" alt="mostafa-yasen" /></a>
+<img src="https://github-profile-trophy.vercel.app/?username=mostafa-yasen&row=2&column=3" alt="mostafa-yasen" />
 </p>
 
 <br>
