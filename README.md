@@ -30,9 +30,9 @@ You can click the Preview link to take a look at your changes.
 <br>
 <h2>Github Profile Stats</h2>
 
-<p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-yasen&show_icons=true&locale=en&layout=compact&count_private=true" alt="mostafa-yasen" /></p>
 
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-yasen&show_icons=true&locale=en&layout=compact&count_private=true" alt="mostafa-yasen" /></p>
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-yasen&show_icons=true&locale=en" alt="mostafa-yasen" />
