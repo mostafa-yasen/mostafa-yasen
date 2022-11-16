@@ -30,13 +30,10 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="left">
- <!--
-<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-yasen&show_icons=true&locale=en&layout=compact&count_private=true" alt="mostafa-yasen" /></p>
-<br>
--->
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mostafa-yasen&show_icons=true&locale=en" alt="mostafa-yasen" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-yasen&" alt="mostafa-yasen" />
+<img width="33%" src="https://github-readme-stats.vercel.app/api?username=mostafa-yasen&show_icons=true&locale=en" alt="mostafa-yasen" />
+<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-yasen&hide=html,gherkin&show_icons=true&locale=en&layout=compact" alt="mostafa-yasen" />
+<img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-yasen&" alt="mostafa-yasen" />
 </p>
 
 <br>
